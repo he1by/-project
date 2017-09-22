@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Childrens>
+  <Children ID="-895175519">
+    <FIO>Имя</FIO>
+    <Birthday>20000101</Birthday>
+    <Adress>Адрес</Adress>
+    <Conclusion>ывф</Conclusion>
+    <Protocol_number>прот</Protocol_number>
+    <Transmission_date>20000101</Transmission_date>
+    <Recomendations>srds</Recomendations>
+    <Aducation>ДУ50</Aducation>
+    <AducationIn>sdsd</AducationIn>
+    <Note>прим</Note>
+  </Children>
+  <Children ID="-1587678536">
+    <FIO>фионовый</FIO>
+    <Birthday>19990202</Birthday>
+    <Adress>Адрес</Adress>
+    <Conclusion>закл</Conclusion>
+    <Protocol_number>прот</Protocol_number>
+    <Transmission_date>19990202</Transmission_date>
+    <Recomendations>рек</Recomendations>
+    <Aducation>СШ 50</Aducation>
+    <AducationIn>напр</AducationIn>
+    <Note>прим</Note>
+  </Children>
+  <Children ID="-1203919458">
+    <FIO>фионов2</FIO>
+    <Birthday>20000101</Birthday>
+    <Adress>адр</Adress>
+    <Conclusion>закл</Conclusion>
+    <Protocol_number>прот</Protocol_number>
+    <Transmission_date>20000101</Transmission_date>
+    <Recomendations>рек</Recomendations>
+    <Aducation>прилб</Aducation>
+    <AducationIn>напр</AducationIn>
+    <Note>прим</Note>
+  </Children>
+  <Children ID="1664861810">
+    <FIO>Адрес</FIO>
+    <Birthday>20000101</Birthday>
+    <Adress>dsadsa</Adress>
+    <Conclusion>dsad</Conclusion>
+    <Protocol_number>asd</Protocol_number>
+    <Transmission_date>20000101</Transmission_date>
+    <Recomendations>dasdas</Recomendations>
+    <Aducation>
+    </Aducation>
+    <AducationIn>СШ 10
+СШ 30 
+</AducationIn>
+    <Note>dasdas</Note>
+  </Children>
+  <Children ID="-1937949771">
+    <FIO>fsd</FIO>
+    <Birthday>20000101</Birthday>
+    <Adress>dsfsd</Adress>
+    <Conclusion>fsdf</Conclusion>
+    <Protocol_number>sfdds</Protocol_number>
+    <Transmission_date>20000101</Transmission_date>
+    <Recomendations>fdsf</Recomendations>
+    <Aducation>
+    </Aducation>
+    <AducationIn>СШ 1
+
+СШ 2
+
+СШ 10
+
+</AducationIn>
+    <Note>sdf</Note>
+  </Children>
+  <Children ID="-1807515866">
+    <FIO>sadasd</FIO>
+    <Birthday>20000101</Birthday>
+    <Adress>dsad</Adress>
+    <Conclusion>dsad</Conclusion>
+    <Protocol_number>sadsa</Protocol_number>
+    <Transmission_date>20000113</Transmission_date>
+    <Recomendations>sadsasad</Recomendations>
+    <Aducation>СШ 777; </Aducation>
+    <AducationIn>СШ 110; </AducationIn>
+    <Note>sadsad</Note>
+  </Children>
+  <Children ID="1143826475">
+    <FIO>23213</FIO>
+    <Birthday>20001201</Birthday>
+    <Adress>21321</Adress>
+    <Conclusion>21321</Conclusion>
+    <Protocol_number>3213</Protocol_number>
+    <Transmission_date>11110201</Transmission_date>
+    <Recomendations>21321</Recomendations>
+    <Aducation>СШ 110; </Aducation>
+    <AducationIn>СШ 110; </AducationIn>
+    <Note>312321</Note>
+  </Children>
+</Childrens>

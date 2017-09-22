@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Childrens>
+  <Children ID="2">
+    <FIO>new<FIO>1</FIO></FIO>
+    <Birthday>4 июля 2016 г.</Birthday>
+    <Adress>Улица казинца</Adress>
+    <Conclusion>Есть такое</Conclusion>
+    <Protocol_number>1222e</Protocol_number>
+    <Transmission_date>4 июля 2016 г.</Transmission_date>
+    <Recomendations>Мб есть мб нету</Recomendations>
+    <Aducation>В такое </Aducation>
+    <AducationIn>Из такого</AducationIn>
+    <Note>лл</Note>
+  </Children>
+</Childrens>

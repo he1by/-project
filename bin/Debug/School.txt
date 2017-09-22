@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aducation>
+  <School Number="СШ 777" />
+  <School Number="СШ 110" />
+</Aducation>

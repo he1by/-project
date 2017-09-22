@@ -1,0 +1,32 @@
+D:\project\Data base\Data base\obj\Debug\Data_base.AddForm.resources
+D:\project\Data base\Data base\obj\Debug\Data_base.DateSearchForm.resources
+D:\project\Data base\Data base\obj\Debug\Data_base.MainForm.resources
+D:\project\Data base\Data base\obj\Debug\Data_base.FormChange.resources
+D:\project\Data base\Data base\obj\Debug\Data_base.Properties.Resources.resources
+D:\project\Data base\Data base\obj\Debug\Data_base.TextSearch.resources
+D:\project\Data base\Data base\obj\Debug\Data base.csproj.GenerateResource.Cache
+D:\project\Data base\Data base\bin\Debug\Data base.exe.config
+D:\project\Data base\Data base\bin\Debug\Data base.exe
+D:\project\Data base\Data base\bin\Debug\Data base.pdb
+D:\project\Data base\Data base\obj\Debug\Data base.exe
+D:\project\Data base\Data base\obj\Debug\Data base.pdb
+D:\project\Data base\Data base\obj\Debug\Data base.csprojResolveAssemblyReference.cache
+D:\project\Data base\Data base\obj\Debug\Data_base.DateChange.resources
+E:\project\Data base\Data base\bin\Debug\Data base.exe.config
+E:\project\Data base\Data base\bin\Debug\Data base.exe
+E:\project\Data base\Data base\bin\Debug\Data base.pdb
+E:\project\Data base\Data base\obj\Debug\Data_base.AddForm.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.DateChange.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.DateSearchForm.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.MainForm.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.FormChange.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.Properties.Resources.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.TextSearch.resources
+E:\project\Data base\Data base\obj\Debug\Data base.csproj.GenerateResource.Cache
+E:\project\Data base\Data base\obj\Debug\Data base.exe
+E:\project\Data base\Data base\obj\Debug\Data base.pdb
+E:\project\Data base\Data base\obj\Debug\Data base.csprojResolveAssemblyReference.cache
+E:\project\Data base\Data base\obj\Debug\Data base.csproj.CoreCompileInputs.cache
+E:\project\Data base\Data base\obj\Debug\Data_base.Forms.SettingsMenu.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.Forms.AddEducationForm.resources
+E:\project\Data base\Data base\obj\Debug\Data_base.Forms.DeleteEducationForm.resources
